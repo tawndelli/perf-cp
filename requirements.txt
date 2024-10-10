@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-core
+termcolor
+python-dotenv
+pymongo
+certifi
+sentence-transformers
+fastapi
+uvicorn
+faiss-cpu 
